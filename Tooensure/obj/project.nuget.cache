@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQe4qTmCewyBD3ihDqjHou4UmldGGjW0RngBmklo1dTO+AJlMsoM+jaC/GaQwCfKDlDl5Ck9QHV7T+/+1ke92Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tooen\\dev\\implementation\\Tooensure\\Tooensure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tooen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tooen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

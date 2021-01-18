@@ -1,0 +1,16 @@
+C:\Users\tooen\dev\implementation\VisualLearn\obj\Debug\net5.0\root.csprojAssemblyReference.cache
+C:\Users\tooen\dev\implementation\VisualLearn\obj\Debug\net5.0\root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tooen\dev\implementation\VisualLearn\obj\Debug\net5.0\root.AssemblyInfoInputs.cache
+C:\Users\tooen\dev\implementation\VisualLearn\obj\Debug\net5.0\root.AssemblyInfo.cs
+C:\Users\tooen\dev\implementation\VisualLearn\obj\Debug\net5.0\root.csproj.CoreCompileInputs.cache
+C:\Users\tooen\dev\implementation\VisualLearn\bin\Debug\net5.0\root.exe
+C:\Users\tooen\dev\implementation\VisualLearn\bin\Debug\net5.0\root.deps.json
+C:\Users\tooen\dev\implementation\VisualLearn\bin\Debug\net5.0\root.runtimeconfig.json
+C:\Users\tooen\dev\implementation\VisualLearn\bin\Debug\net5.0\root.runtimeconfig.dev.json
+C:\Users\tooen\dev\implementation\VisualLearn\bin\Debug\net5.0\root.dll
+C:\Users\tooen\dev\implementation\VisualLearn\bin\Debug\net5.0\ref\root.dll
+C:\Users\tooen\dev\implementation\VisualLearn\bin\Debug\net5.0\root.pdb
+C:\Users\tooen\dev\implementation\VisualLearn\obj\Debug\net5.0\root.dll
+C:\Users\tooen\dev\implementation\VisualLearn\obj\Debug\net5.0\ref\root.dll
+C:\Users\tooen\dev\implementation\VisualLearn\obj\Debug\net5.0\root.pdb
+C:\Users\tooen\dev\implementation\VisualLearn\obj\Debug\net5.0\root.genruntimeconfig.cache
